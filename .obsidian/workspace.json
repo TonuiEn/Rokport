@@ -62,9 +62,51 @@
               "icon": "lucide-file",
               "title": "Кифа Левро"
             }
+          },
+          {
+            "id": "94f1d7b293ed7c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Все/Кол Традичив.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Кол Традичив"
+            }
+          },
+          {
+            "id": "ef188286be1be224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Все/Инна Фамилия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Инна Фамилия"
+            }
+          },
+          {
+            "id": "9a6bc589bd240057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Все/Алан.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Алан"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -96,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "кам",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,7 +159,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,11 +267,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f96d9e1fb607cd6",
+  "active": "da8b884762f50c58",
   "lastOpenFiles": [
+    "Все/Алан.md",
+    "Все/Кол Традичив.md",
+    "Все/Инна Фамилия.md",
+    "Все/Йона Традичива.md",
     "Все/Аркадий Левро.md",
     "Все/Азер Левро.md",
-    "Все/Йона Традичива.md",
     "Все/Кифа Левро.md",
     "Все/Азазель Деус.md",
     "Все/Эммет Триск.md",
@@ -249,9 +295,6 @@
     "Все/Авон Мастус.md",
     "Все/Илиас Герталь.md",
     "Все/Август Деволи.md",
-    "Все/Авелин Ловант.md",
-    "Все/Ян Коннолли.md",
-    "Все/Якомару Цзинь.md",
     "Все"
   ]
 }
