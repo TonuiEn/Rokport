@@ -83,16 +83,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Все/Без названия.md",
+                "file": "Все/Бейт Дюлашан.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Бейт Дюлашан"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +144,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Все/Без названия.md",
+                "file": "Все/Алфи Шифаев.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия"
+              "title": "Обратные ссылки для Алфи Шифаев"
             }
           },
           {
@@ -252,9 +252,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eca1d2b2fd2a94e3",
+  "active": "da8b884762f50c58",
   "lastOpenFiles": [
-    "Все/Без названия.md",
+    "Все/Бейт Дюлашан.md",
     "Все/Алфи Шифаев.md",
     "Все/Филимон Акрецки.md",
     "Все/Вильям Акрецки.md",
