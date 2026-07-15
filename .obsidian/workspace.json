@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48624d1d7fc1bb66",
+            "id": "19da783fb7128ca8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Все/Анубис.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Анубис"
             }
           },
           {
@@ -77,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Сама",
+                "query": "мих",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,8 +102,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Все/Анубис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Анубис"
             }
           },
           {
@@ -205,8 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48624d1d7fc1bb66",
+  "active": "19da783fb7128ca8",
   "lastOpenFiles": [
+    "Все/Аннет Латрик.md",
+    "Все/Анна Артечева.md",
+    "Все/Аника Мие.md",
+    "Все/Андре Мерос.md",
     "Все/Анастасия Диас.md",
     "Все/Анастасия Астер.md",
     "Все/Август Деволи.md",
@@ -229,10 +237,6 @@
     "Все/Алиса Кролта.md",
     "Все/Диметриус Фамилия.md",
     "Все/Алекс Реймон.md",
-    "Все/Алан Мерос.md",
-    "Все/Аксинья Тарсон.md",
-    "Все/Белослав Тарсон.md",
-    "Все/Сергей Тарсон.md",
     "Все"
   ]
 }
