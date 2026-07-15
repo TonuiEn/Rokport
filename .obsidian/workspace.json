@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Все/Без названия.md",
+                "file": "Все/Наилл Грашев.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Наилл Грашев"
             }
           },
           {
@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Все/Без названия 1.md",
+                "file": "Все/Илай Грашев.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 1"
+              "title": "Илай Грашев"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "фил",
+                "query": "ила",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +131,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Все/Без названия.md",
+                "file": "Все/Илай Грашев.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия"
+              "title": "Обратные ссылки для Илай Грашев"
             }
           },
           {
@@ -238,10 +239,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "721b93cf35460cbc",
+  "active": "c4ccbbf30c0934df",
   "lastOpenFiles": [
-    "Все/Без названия 1.md",
-    "Все/Без названия.md",
+    "Все/Наилл Грашев.md",
+    "Все/Илай Грашев.md",
     "Все/Филимон Акрецки.md",
     "Все/Вильям Акрецки.md",
     "Все/Алфи Шифаев.md",
