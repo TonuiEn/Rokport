@@ -179,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Киф",
+                "query": "Шэ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -200,8 +200,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -308,7 +307,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da8b884762f50c58",
+  "active": "2f96d9e1fb607cd6",
   "lastOpenFiles": [
     "Все/Фамел Фамилия.md",
     "Все/Айка Жейтр.md",
