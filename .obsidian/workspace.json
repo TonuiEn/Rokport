@@ -77,8 +77,7 @@
               "title": "Илай Грашев"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Все/Вильям Акрецки.md",
+                "file": "Все/Алфи Шифаев.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Вильям Акрецки"
+              "title": "Обратные ссылки для Алфи Шифаев"
             }
           },
           {
@@ -239,12 +238,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "483954a1020b48c7",
+  "active": "48624d1d7fc1bb66",
   "lastOpenFiles": [
-    "Все/Наилл Грашев.md",
-    "Все/Илай Грашев.md",
     "Все/Филимон Акрецки.md",
     "Все/Вильям Акрецки.md",
+    "Все/Наилл Грашев.md",
+    "Все/Илай Грашев.md",
     "Все/Алфи Шифаев.md",
     "Все/Алия Прист.md",
     "Все/Алиса Кролта.md",
