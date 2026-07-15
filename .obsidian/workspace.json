@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Все/Август Деволи aaaaaq.md",
+                "file": "Все/Авон Мастус.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Август Деволи aaaaaq"
+              "title": "Авон Мастус"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Эмм",
+                "query": "лаб",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,9 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "322c699e73584c7c",
+  "active": "da8b884762f50c58",
   "lastOpenFiles": [
-    "Все/Август Деволи aaaaaq.md",
+    "Все/Август Деволи.md",
+    "Все/Авон Мастус.md",
+    "Все/Авелин Ловант.md",
     "Все/Эммет Триск aaa.md",
     "Все/Айка.md",
     "Все/Ян Коннолли.md",
@@ -207,8 +210,6 @@
     "Все/Эдан Спест.md",
     "Все/Шэр Сейфор.md",
     "Все/Шуанг Бейфонг.md",
-    "Все/Шон Ларос.md",
-    "Все/Шия Шаньян.md",
     "Все"
   ]
 }
