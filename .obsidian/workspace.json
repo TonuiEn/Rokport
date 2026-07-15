@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Все/Алан Мерос.md",
+                "file": "Все/Алекс Реймон.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Алан Мерос"
+              "title": "Алекс Реймон"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Алек",
+                "query": "Ита",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Все/Алан Мерос.md",
+                "file": "Все/Алекс Реймон.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Алан Мерос"
+              "title": "Обратные ссылки для Алекс Реймон"
             }
           },
           {
@@ -181,9 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48624d1d7fc1bb66",
+  "active": "da8b884762f50c58",
   "lastOpenFiles": [
     "Все/Аксинья Тарсон.md",
+    "Все/Алан Мерос.md",
+    "Все/Алекс Реймон.md",
     "Все/Белослав Тарсон.md",
     "Все/Сергей Тарсон.md",
     "Все/Блум Тарсон.md",
@@ -207,8 +210,6 @@
     "Все/Адлер Флайт.md",
     "Все/Адель Торреа.md",
     "Все/Адам Примис.md",
-    "Все/Авон Мастус.md",
-    "Все/Авелин Ловант.md",
     "Все"
   ]
 }
