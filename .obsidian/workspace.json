@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Все/Илай Грашев.md",
+                "file": "Все/Вильям Акрецки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Илай Грашев"
+              "title": "Обратные ссылки для Вильям Акрецки"
             }
           },
           {
@@ -239,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4ccbbf30c0934df",
+  "active": "483954a1020b48c7",
   "lastOpenFiles": [
     "Все/Наилл Грашев.md",
     "Все/Илай Грашев.md",
