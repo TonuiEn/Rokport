@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Шэ",
+                "query": "Вил",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "322c699e73584c7c",
+  "active": "da8b884762f50c58",
   "lastOpenFiles": [
     "Все/Айша Астер.md",
     "Все/Айка Жейтр.md",
