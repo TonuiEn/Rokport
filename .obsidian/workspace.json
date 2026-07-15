@@ -13,138 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Все/Айка Жейтр.md",
+                "file": "Все/Айша Астер.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Айка Жейтр"
-            }
-          },
-          {
-            "id": "38b2766e162b69de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Все/Аркадий Левро.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Аркадий Левро"
-            }
-          },
-          {
-            "id": "03259bb4207a914c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Все/Йона Традичива.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Йона Традичива"
-            }
-          },
-          {
-            "id": "42f4ee5840daf451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Все/Кифа Левро.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Кифа Левро"
-            }
-          },
-          {
-            "id": "94f1d7b293ed7c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Все/Кол Традичив.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Кол Традичив"
-            }
-          },
-          {
-            "id": "ef188286be1be224",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Все/Инна Фамилия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Инна Фамилия"
-            }
-          },
-          {
-            "id": "937ef17ae22a6978",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Все/Алфи Шифаев.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Алфи Шифаев"
-            }
-          },
-          {
-            "id": "bae010ab3ce0e822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Все/Клео Шифаева.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Клео Шифаева"
-            }
-          },
-          {
-            "id": "e45de675d4c703b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Все/Саманта Фамилия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Саманта Фамилия"
-            }
-          },
-          {
-            "id": "f3bef8f9d303576b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Все/Фамел Фамилия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Фамел Фамилия"
+              "title": "Айша Астер"
             }
           }
         ]
@@ -307,12 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f96d9e1fb607cd6",
+  "active": "322c699e73584c7c",
   "lastOpenFiles": [
-    "Все/Фамел Фамилия.md",
+    "Все/Айша Астер.md",
     "Все/Айка Жейтр.md",
-    "Все/Клео Шифаева.md",
+    "Все/Фамел Фамилия.md",
     "Все/Саманта Фамилия.md",
+    "Все/Клео Шифаева.md",
+    "Все/Алфи Шифаев.md",
+    "Все/Инна Фамилия.md",
+    "Все/Кол Традичив.md",
+    "Все/Кифа Левро.md",
+    "Все/Йона Традичива.md",
+    "Все/Аркадий Левро.md",
     "Все/Иоан Фамилия.md",
     "Все/Айзер Сайкор.md",
     "Все/Азер Левро.md",
@@ -323,18 +204,11 @@
     "Все/Авон Мастус.md",
     "Все/Авелин Ловант.md",
     "Все/Август Деволи.md",
-    "Все/Аркадий Левро.md",
-    "Все/Йона Традичива.md",
-    "Все/Кифа Левро.md",
-    "Все/Кол Традичив.md",
-    "Все/Инна Фамилия.md",
-    "Все/Алфи Шифаев.md",
     "Все/Алан Мерос.md",
     "Все/Эммет Триск.md",
     "Все/Эллен Торреа.md",
     "Все/Эрлен Хест.md",
     "Все/Флорен Рейджи.md",
-    "Все/Нестар Фамилия.md",
     "Все"
   ]
 }
