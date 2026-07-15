@@ -125,16 +125,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Все/Айка.md",
+                "file": "Все/Айка Жейтр.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Айка"
+              "title": "Айка Жейтр"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -295,8 +295,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da8b884762f50c58",
+  "active": "9a6bc589bd240057",
   "lastOpenFiles": [
+    "Все/Айка Жейтр.md",
     "Все/Алан Мерос.md",
     "Все/Алфи Шифаев.md",
     "Все/Кол Традичив.md",
@@ -307,7 +308,6 @@
     "Все/Кифа Левро.md",
     "Все/Азазель Деус.md",
     "Все/Эммет Триск.md",
-    "Все/Айка.md",
     "Все/Эллен Торреа.md",
     "Все/Эрлен Хест.md",
     "Все/Флорен Рейджи.md",
